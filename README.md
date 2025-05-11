@@ -1,2 +1,2 @@
 # class_demo
-class demo repository stat21
+class_demo_repository_stat21
